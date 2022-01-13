@@ -13,5 +13,5 @@ the ``pyne`` directories in this repo.
 
 To run the comparisons with PyNE, copy the decay dataset files created for
 radioactivedecay from PyNE data from
-[here](https://github.com/radioactivedecay/datasets/tree/pyne) into the
+[here](https://github.com/radioactivedecay/datasets/tree/main/pyne) into the
 ``pyne`` directory of this repo.
